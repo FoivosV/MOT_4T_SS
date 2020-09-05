@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MOT",
+"productVersion": "0.1b",
+"dataUrl": "210f56aca7555be56612132799134c0e.unityweb",
+"wasmCodeUrl": "faf83b45f8ae284b5df4e6e3851468cb.unityweb",
+"wasmFrameworkUrl": "0cda5e463b3089ac9d95c303b25f93da.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
